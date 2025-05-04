@@ -67,8 +67,8 @@ Here’s a little about me:
   <a href="https://x.com/HNyateya?t=i1dv8j_XHxHJWCnvpJg0Dw&s=08">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://github.com/Nyateya">
-    <img src="https://github.com/Nyateya/Nyateya/edit/main/README.md" alt="GitHub">
+  <a href="https://github.com/Nyateya/Nyateya/edit/main/README.md">
+    <img src="https://img.shields.io/badge/Github-005cc5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
